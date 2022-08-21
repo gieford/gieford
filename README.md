@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gieford
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning rectjs, nodejs, python
+- 🌱 I’m currently learning rectjs, nodejs, python, flask, sqlalchemy
 - 💞️ I’m looking to collaborate on these platform
 - 📫 How to reach me, contact me at g4dgt.bisu@gmail.com
 
